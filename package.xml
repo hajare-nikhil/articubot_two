@@ -4,7 +4,7 @@
   <name>articubot_two</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="hajaren29@gmailcom">Nikhil Hajare</maintainer>
+  <maintainer email="hajaren29@gmail.com">Nikhil Hajare</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
